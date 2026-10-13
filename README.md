@@ -1,4 +1,4 @@
-# SENTINEL — Ransomware Behaviour Monitor (prototype)
+# CERBERUS — Ransomware Behaviour Monitor (prototype)
 
 A small educational Python/Tkinter project that watches a chosen directory and applies explainable heuristics to file-system events.
 

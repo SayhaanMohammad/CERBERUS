@@ -1,0 +1,9 @@
+{
+  "monitor_directory": "C:\\Users\\sayha\\Downloads\\CERBERUS\\test_files\\C1_demo",
+  "window_seconds": 2,
+  "file_threshold": 10,
+  "ignore_patterns": [
+    "logs"
+  ],
+  "expected_activity_patterns": []
+}
